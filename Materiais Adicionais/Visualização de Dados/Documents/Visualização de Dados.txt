@@ -1,0 +1,14 @@
+Anotações Sobre Visualização de Dados:
+
+
+https://www.youtube.com/watch?v=gh-UyoZndTA
+
+https://br.udacity.com/course/data-visualization-and-d3js--ud507/
+
+https://www.coursera.org/learn/datavisualization
+
+https://www.edx.org/course/data-visualization-all-trinityx-t005x#
+
+https://interactive.twitter.com/
+
+https://www.slideshare.net/jgabriellima/visualizacao-de-dados-come-to-the-dark-side
